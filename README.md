@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmoiztahir&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoiztahir" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anashanif123" alt="anashanif123" /></a> </p>
+
 - 🌱 I’m currently learning **Express in M.E.R.N**
 
 - 📫 How to reach me **moiztahir009@gamil.com**
