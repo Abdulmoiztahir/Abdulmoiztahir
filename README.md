@@ -25,6 +25,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdulmoiztahir&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=abdulmoiztahir&color=blue)
+![](https://komarev.com/ghpvc/?username=abdulmoiztahir&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
