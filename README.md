@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Abdul Moiz</h1> <h3 align="center">A passionate M.E.R.N Stack Developer From Pakistan</h3> <p align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/main.gif" width="400" alt="coding gif" /> </p>
+<h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
+<h3 align="center">A passionate M.E.R.N Stack Developer From Pakistan</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/main.gif" width="400" alt="coding gif" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" alt="animated gif" />
+</p>
+
 
 # 💫 About Me:
 🔭 I’m currently working on  Portfolio Website https://www.abdulmoizdev.me/<br>👯 I’m looking to collaborate on Open source MERN projects<br>🤝 I’m looking for help with Landing a MERN stack developer role or Freelance / job opportunities<br>🌱 I’m currently learning Next.js Server Actions, Docker, AWS/Cloud Deployment<br>💬 Ask me about React, MongoDB, Node.js, MERN stack<br>📫 How to reach me moiztahir009@gmail.com<br>👨‍💻 All of my projects are available at  https://www.abdulmoizdev.me/<br>📄 Know about my experiences https://drive.google.com/file/d/15n_gdlrzK3AqZTE4z66wYX__QYQ7AgxI/view?usp=sharing<br>⚡ Fun fact I love Gaming
